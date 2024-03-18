@@ -25,17 +25,10 @@ By utilizing these chatbot services, individuals who do not speak English profic
 
 Remember, language should not be a barrier to accessing healthcare in the UK. Take advantage of the available resources, such as chatbots, to ensure you receive the necessary support and care.
 
----
-layout: post
-title: How to use the Chatbot Features
-subtitle: Access4healths' state of the art chatbot is just a click away!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [healthcare, language barrier, UK, Legal Aid]
-comments: true
-author: LPTC
----
 
 ## Click Below to Chat now!
+<center>
 
 ![chatbot](/assets/img/chatbot.png)
+
+</center>
