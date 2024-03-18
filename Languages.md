@@ -1,4 +1,4 @@
-# Supported Languages for Healthcare Access in the UK
+# Supported Languages for Access4Health
 
 At our healthcare access website, we strive to provide information and resources to individuals from diverse linguistic backgrounds. We understand the importance of language accessibility in ensuring equal access to healthcare services. Below is a list of supported languages and where to find further resources in each language for healthcare in the UK.
 
