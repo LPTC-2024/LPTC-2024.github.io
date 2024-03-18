@@ -22,3 +22,7 @@ A: The time it takes to get a referral to a specialist can vary depending on the
 ## Contact Information
 
 If you have any further questions or need assistance, please contact our support team at [support@example.com](mailto:support@example.com).
+
+## Click Below to Chat now!
+
+![chatbot](/assets/img/chatbot.png)
