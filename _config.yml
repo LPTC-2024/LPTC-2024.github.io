@@ -20,11 +20,15 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Change Language: "Languages"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Legal Aid: "https://beautifuljekyll.com"
+    - Dentistry: "https://www.markdowntutorial.com/"
+    - General Practioners (GP): "https://www.markdowntutorial.com/"
+    - Accident & Emergency (A&E): "https://www.markdowntutorial.com/"
+    - NHS Services: "https://www.markdowntutorial.com/"
+    - Helplines: "https://www.markdowntutorial.com/"
+  Chatbot: "https://deanattali.com"
 
 ################
 # --- Logo --- #
