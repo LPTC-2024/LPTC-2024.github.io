@@ -1,91 +1,26 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: How to use the Chatbot Features
+subtitle: Access4healths' state of the art chatbot is just a click away!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [healthcare, language barrier, UK, Legal Aid]
 comments: true
-author: Bill Smith
+author: LPTC
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Accessing healthcare in the UK can be challenging for individuals who do not speak English fluently. Language barriers can make it difficult to communicate effectively with healthcare professionals and understand medical information.
 
-**Here is some bold text**
+To overcome this challenge, many healthcare providers in the UK offer chatbot services on their websites. These chatbots provide a convenient way to seek legal medical advice and assistance in multiple languages. Here's how you can access the chatbot page on their websites:
 
-## Here is a secondary heading
+1. Visit the website of the healthcare provider you wish to contact.
+2. Look for a "Chat" or "Contact Us" option on the website's navigation menu.
+3. Click on the "Chat" or "Contact Us" option to access the chatbot page.
+4. On the chatbot page, you will typically find a text box where you can type your questions or concerns.
+5. Enter your query in the text box and click on the "Send" or "Submit" button to initiate the conversation.
+6. The chatbot will provide automated responses and guide you through the process of seeking legal medical advice.
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+By utilizing these chatbot services, individuals who do not speak English proficiently can access the necessary healthcare information and receive guidance on their medical concerns. It is important to note that while chatbots can provide initial assistance, they are not a substitute for professional medical advice. If your situation requires urgent attention or complex medical advice, it is recommended to consult with a healthcare professional directly.
 
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+Remember, language should not be a barrier to accessing healthcare in the UK. Take advantage of the available resources, such as chatbots, to ensure you receive the necessary support and care.
