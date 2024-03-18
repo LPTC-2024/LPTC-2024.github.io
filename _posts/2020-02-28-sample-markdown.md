@@ -27,8 +27,6 @@ Remember, language should not be a barrier to accessing healthcare in the UK. Ta
 
 
 ## Click Below to Chat now!
-<center>
 
 ![chatbot](/assets/img/chatbot.png)
 
-</center>

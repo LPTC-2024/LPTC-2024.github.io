@@ -25,8 +25,6 @@ If you have any further questions or need assistance, please contact our support
 
 
 ## Click Below to Chat now!
-<center>
 
 ![chatbot](/assets/img/chatbot.png)
 
-</center>
