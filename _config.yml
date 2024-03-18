@@ -22,13 +22,13 @@ author: Some Person
 navbar-links:
   Change Language: "Languages"
   Resources:
-    - Legal Aid: "https://beautifuljekyll.com"
-    - Dentistry: "https://www.markdowntutorial.com/"
-    - General Practioners (GP): "https://www.markdowntutorial.com/"
-    - Accident & Emergency (A&E): "https://www.markdowntutorial.com/"
-    - NHS Services: "https://www.markdowntutorial.com/"
-    - Helplines: "https://www.markdowntutorial.com/"
-  Chatbot: "https://deanattali.com"
+    - Legal Aid: "https://www.nhs.uk/services/service-directory/community-legal-advice/N10499350#:~:text=If%20you%20are%20living%20on,advice%20is%20independent%20and%20confidential."
+    - Dentistry: "https://www.nhs.uk/nhs-services/dentists/"
+    - General Practioners (GP): "https://www.nhs.uk/nhs-services/gps/"
+    - Accident & Emergency (A&E): "https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/find-urgent-and-emergency-care-services/"
+    - NHS Services: "https://www.nhs.uk/"
+    - Helplines: "https://www.helplines.org/helplines/"
+  Chatbot: "https://LPTC-2024.github.io/Chatbot/"
 
 ################
 # --- Logo --- #
